@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM![Uploading Untitled.png…]()
+## NAME : RAMITHA CHOWDARY S
+## REG NO.: 212224240130
+## AIM
+IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
 ## ALGORITHM:
 1. Start the program.
@@ -43,6 +46,7 @@ while True:
 ## OUPUT
 
 ![Screenshot 2025-03-19 103716](https://github.com/user-attachments/assets/915bc668-87cc-4138-b85b-f23495384de2)
+![Screenshot 2025-03-19 103755](https://github.com/user-attachments/assets/32c4724e-1f10-4c72-a9d2-c6d8917d434e)
 
 
 
