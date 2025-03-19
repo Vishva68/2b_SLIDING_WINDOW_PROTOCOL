@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+## AIM![Uploading Untitled.png…]()
+
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -40,10 +41,11 @@ while True:
  s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
-CLIENT
-![Screenshot 2025-03-19 103716](https://github.com/user-attachments/assets/a5ca3660-4bc3-4f5f-b230-aac7d3d9d271)
-SERVER
-![Uploading Screenshot 2025-03-19 103755.png…]()
+
+![Screenshot 2025-03-19 103716](https://github.com/user-attachments/assets/915bc668-87cc-4138-b85b-f23495384de2)
+
+
+
 
 
 ## RESULT
